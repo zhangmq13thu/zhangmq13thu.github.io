@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next muse use-motion" lang="en">
+<html class="theme-next gemini use-motion" lang="en">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -88,8 +88,8 @@
 <meta property="og:site_name" content="Maggie ZHANG">
 <meta property="og:description" content="Vi Veri Veniversum Vivus Vici">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2020-02-19T07:13:33.000Z">
-<meta property="article:modified_time" content="2020-02-19T07:17:36.743Z">
+<meta property="article:published_time" content="2020-02-19T15:13:47.000Z">
+<meta property="article:modified_time" content="2020-02-19T15:13:47.454Z">
 <meta property="article:author" content="Maggie ZHANG">
 <meta name="twitter:card" content="summary">
 
@@ -99,7 +99,7 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Muse',
+    scheme: 'Gemini',
     version: '5.1.4',
     sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: true,
@@ -212,26 +212,6 @@
         </li>
       
         
-        <li class="menu-item menu-item-tags">
-          <a href="/tags/%20" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
-            
-            Tags
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-categories">
-          <a href="/categories/%20" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
-            
-            Categories
-          </a>
-        </li>
-      
-        
         <li class="menu-item menu-item-archives">
           <a href="/archives/%20" rel="section">
             
@@ -255,7 +235,7 @@
         <li class="menu-item menu-item-research">
           <a href="/research/%20" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-spinner"></i> <br />
+              <i class="menu-item-icon fa fa-fw fa-fas fa-align-justify"></i> <br />
             
             research
           </a>
@@ -265,7 +245,7 @@
         <li class="menu-item menu-item-cv">
           <a href="/CV/%20" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+              <i class="menu-item-icon fa fa-fw fa-far fa-file-o"></i> <br />
             
             CV
           </a>
@@ -275,7 +255,7 @@
         <li class="menu-item menu-item-blog">
           <a href="/blog/%20" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br />
+              <i class="menu-item-icon fa fa-fw fa-fas fa-square"></i> <br />
             
             blog
           </a>
@@ -422,14 +402,32 @@
               
                 <a href="/archives/%20%7C%7C%20archive">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">1</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
             
 
             
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">1</span>
+                  <span class="site-state-item-name">categories</span>
+                </a>
+              </div>
+            
 
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">1</span>
+                  <span class="site-state-item-name">tags</span>
+                </a>
+              </div>
             
 
           </nav>
@@ -479,7 +477,7 @@
                   <span class="links-of-author-item">
                     <a href="https://www.zhihu.com/people/mengqing-zhang" target="_blank" title="Zhihu">
                       
-                        <i class="fa fa-fw fa-zhihu"></i>Zhihu</a>
+                        <i class="fa fa-fw fa-fab fa-zhihu"></i>Zhihu</a>
                   </span>
                 
             </div>
@@ -532,7 +530,7 @@
 
 
 
-  <div class="theme-info">Theme &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Muse</a> v5.1.4</div>
+  <div class="theme-info">Theme &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Gemini</a> v5.1.4</div>
 
 
 
@@ -640,6 +638,13 @@
 
   
   
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
 
   
   <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
@@ -1164,6 +1169,28 @@
   
 
   
+  
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+      });
+    </script>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for (i=0; i < all.length; i += 1) {
+          all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+      });
+    </script>
+    <script type="text/javascript" src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
 
   
 
