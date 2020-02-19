@@ -3,10 +3,10 @@
   <title>Maggie ZHANG</title>
   
   
-  <link href="./atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangmq13thu.github.io/"/>
-  <updated>2020-02-19T15:04:29.502Z</updated>
+  <updated>2020-02-19T16:46:32.137Z</updated>
   <id>https://zhangmq13thu.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>cv</title>
-    <link href="https://zhangmq13thu.github.io/2020/02/19/cv/"/>
-    <id>https://zhangmq13thu.github.io/2020/02/19/cv/</id>
-    <published>2020-02-19T15:02:07.000Z</published>
-    <updated>2020-02-19T15:04:29.502Z</updated>
+    <title>Maggie ZHANG&#39;s CV</title>
+    <link href="https://zhangmq13thu.github.io/2020/02/20/Maggie-ZHANG-s-CV/"/>
+    <id>https://zhangmq13thu.github.io/2020/02/20/Maggie-ZHANG-s-CV/</id>
+    <published>2020-02-19T16:46:05.000Z</published>
+    <updated>2020-02-19T16:46:32.137Z</updated>
     
     <content type="html"><![CDATA[<div class="row">    <embed src="CV.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -37,15 +37,12 @@
 
 
 
+
       
     
     </summary>
     
     
-      <category term="academic" scheme="https://zhangmq13thu.github.io/categories/academic/"/>
-    
-    
-      <category term="personal" scheme="https://zhangmq13thu.github.io/tags/personal/"/>
     
   </entry>
   
