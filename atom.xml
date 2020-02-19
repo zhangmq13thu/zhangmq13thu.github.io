@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="zhangmq13thu.github.io/"/>
   <updated>2020-02-19T15:04:29.502Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>zhangmq13thu.github.io/</id>
   
   <author>
     <name>Maggie ZHANG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>cv</title>
-    <link href="http://yoursite.com/2020/02/19/cv/"/>
-    <id>http://yoursite.com/2020/02/19/cv/</id>
+    <link href="zhangmq13thu.github.io/2020/02/19/cv/"/>
+    <id>zhangmq13thu.github.io/2020/02/19/cv/</id>
     <published>2020-02-19T15:02:07.000Z</published>
     <updated>2020-02-19T15:04:29.502Z</updated>
     
@@ -42,10 +42,10 @@
     </summary>
     
     
-      <category term="academic" scheme="http://yoursite.com/categories/academic/"/>
+      <category term="academic" scheme="zhangmq13thu.github.io/categories/academic/"/>
     
     
-      <category term="personal" scheme="http://yoursite.com/tags/personal/"/>
+      <category term="personal" scheme="zhangmq13thu.github.io/tags/personal/"/>
     
   </entry>
   
