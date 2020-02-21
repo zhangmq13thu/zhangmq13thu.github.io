@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Maggie ZHANG</title>
   
-  
+  <subtitle>Computational Social Science</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangmq13thu.github.io/"/>
