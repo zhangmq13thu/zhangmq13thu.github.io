@@ -1,20 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Maggie ZHANG&#39;s CV</title>
-      <link href="/2020/02/20/Maggie-ZHANG-s-CV/"/>
-      <url>/2020/02/20/Maggie-ZHANG-s-CV/</url>
-      
-        <content type="html"><![CDATA[<div class="row">    <embed src="CV.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>Information resources - politics &amp; communication research related</title>
+    <url>/2020/02/21/Information-resources-politics-communication-research-related/</url>
+    <content><![CDATA[<p>Information source:</p>
+<ul>
+<li><a href="https://fivethirtyeight.com/" target="_blank" rel="noopener">FiveThirtyEight</a></li>
+<li></li>
+</ul>
+]]></content>
+      <categories>
+        <category>academic</category>
+      </categories>
+      <tags>
+        <tag>research resources</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Summer/winter schools in the filed of computational social science and research methods</title>
+    <url>/2020/02/21/Summer-winter-schools-in-the-filed-of-computational-social-science-and-research-methods/</url>
+    <content><![CDATA[<p>In recent years, the concept of Computational Social Science (CSS) has been increasingly popular. It is an interdisciplinary field where people from computer science, political science, psychology, media studies and other areas can cooperate to conduct large scale research projects. Since CSS has a relatively high requirement for both computational skills and research methods, it is both necessay and helpful for researchers in this field to make good use of all kinds of learning resources to better equip themselves. Below listed out some summer schools in the field of computational social science and research methods. The list wil keep updated. </p>
+<ol>
+<li><p><a href="https://compsocialscience.github.io/summer-institute/" target="_blank" rel="noopener">SICSS (Summer Institutes in Computational Social Science)</a></p>
+<p>Of all the summer schools, SICSS might be the most influencial one. Starting from 2017, It has been a yearly global event. Every year, SICSS will be held in more than 20 places in the world, mainly in North America, Asia and Europe. </p>
+<p>The registration is basically restricted to <strong>graduate students, postdoctoral researchers, and junior faculty</strong> for 2 weeks of intensive study and interdisciplinary research. However, there will also be a live stream every year. Unsuccessful applicants can learn online. The date is in <strong>late June</strong> and the application deadline is around <strong>mid-March</strong>.</p>
+<p><strong>Key speakers</strong>:</p>
+<ul>
+<li></li>
+</ul>
+</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Key researcher</th>
+<th>Affiliation</th>
+<th>Area</th>
+<th>Research topics</th>
+<th>Main publication</th>
+<th>Decription</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://me.mante.li/" target="_blank" rel="noopener">Matti Nelimarkka</a></td>
+<td>Aalto U | Helsinki, Fin</td>
+<td>Lecturer in CS</td>
+<td>CSS; PS; Data Science; D-democrocy</td>
+<td>New Media &amp; Society; Computer in Human Behavior</td>
+<td>Happy to work with students from any university on related topics</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<ol start="2">
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>academic</category>
+      </categories>
+      <tags>
+        <tag>research resources</tag>
+        <tag>PhD study</tag>
+        <tag>computational social science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Maggie ZHANG&#39;s CV</title>
+    <url>/2020/02/20/Maggie-ZHANG-s-CV/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="CV.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+]]></content>
+  </entry>
 </search>
